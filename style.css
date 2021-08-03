@@ -148,7 +148,9 @@ footer p{
         
     
     }
-    
+    nav img{
+        width:3.6rem;
+    }
 
     nav ul{
         color:black;
